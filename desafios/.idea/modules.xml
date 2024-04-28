@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuscaCep/BuscaCep.iml" filepath="$PROJECT_DIR$/BuscaCep/BuscaCep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buscabook/Buscabook.iml" filepath="$PROJECT_DIR$/Buscabook/Buscabook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/desafios.iml" filepath="$PROJECT_DIR$/.idea/desafios.iml" />
+    </modules>
+  </component>
+</project>

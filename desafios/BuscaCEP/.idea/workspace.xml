@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03a21d1e-bff5-4275-b38f-edaf5275d97e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BuscaCep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelos/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelos/EnderecoViaCep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buscabook/src/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buscabook/Buscabook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buscabook/Buscabook.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buscabook/src/BuscaLivros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Buscabook/src/BuscaLivros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Buscabook/BuscaLivros.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Buscabook/BuscaLivros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../projeto/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2eV2ia5CWuoQW2mD18mVMYqpKne" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03a21d1e-bff5-4275-b38f-edaf5275d97e" name="Changes" comment="" />
+      <created>1711975552795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711975552795</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/03-Java-consumindo-API-gravando-arquivos-lidando-com-erros.iml" filepath="$PROJECT_DIR$/.idea/03-Java-consumindo-API-gravando-arquivos-lidando-com-erros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/BuscaCEP/BuscaCEP.iml" filepath="$PROJECT_DIR$/desafios/BuscaCEP/BuscaCEP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/Buscabook/Buscabook.iml" filepath="$PROJECT_DIR$/desafios/Buscabook/Buscabook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto/projeto.iml" filepath="$PROJECT_DIR$/projeto/projeto.iml" />
+    </modules>
+  </component>
+</project>
